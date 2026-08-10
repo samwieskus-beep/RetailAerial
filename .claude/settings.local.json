@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "mcp__Canva__*"
+      "mcp__Canva__*",
+      "mcp__Canva__edit-design"
     ]
   }
 }
